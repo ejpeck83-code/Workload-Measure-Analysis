@@ -1,0 +1,88 @@
+{
+  "departments": [
+    {
+      "division": "Enrollment & Student Affairs",
+      "role": "Social Worker",
+      "fte": 1.0,
+      "caseload_volume": 6300,
+      "benchmark_ratio": 250,
+      "strain_category": "Critical",
+      "strain_index": 25.2,
+      "automation_potential": "Low",
+      "reallocation_candidate": false,
+      "notes": "1:6300 ratio. NASW recommends 1:250. Critical gap for crisis response."
+    },
+    {
+      "division": "Enrollment & Student Affairs",
+      "role": "College Success Coordinator",
+      "fte": 1.0,
+      "caseload_volume": 400,
+      "benchmark_ratio": 200,
+      "strain_category": "High",
+      "strain_index": 2.0,
+      "automation_potential": "Low",
+      "reallocation_candidate": false,
+      "notes": "NACADA benchmark is 1:200. FTIC retention at risk."
+    },
+    {
+      "division": "Enrollment & Student Affairs",
+      "role": "Enrollment Specialist",
+      "fte": 2.0,
+      "caseload_volume": 0,
+      "benchmark_ratio": 0,
+      "strain_category": "Moderate",
+      "strain_index": 1.2,
+      "automation_potential": "High",
+      "reallocation_candidate": false,
+      "notes": "High-volume rule-based tasks (holds, verification) currently manual. Pilot Banner workflow automation."
+    },
+    {
+      "division": "Finance & Facilities",
+      "role": "Accounts Payable",
+      "fte": 1.0,
+      "caseload_volume": 1389,
+      "benchmark_ratio": 1000,
+      "strain_category": "High",
+      "strain_index": 1.4,
+      "automation_potential": "Medium",
+      "reallocation_candidate": false,
+      "notes": "1,389 requisitions, single-point dependency for FYE close."
+    },
+    {
+      "division": "Workforce",
+      "role": "Academic Advisors - Health SIGs",
+      "fte": 2.0,
+      "caseload_volume": 348,
+      "benchmark_ratio": 200,
+      "strain_category": "High",
+      "strain_index": 1.74,
+      "automation_potential": "Low",
+      "reallocation_candidate": false,
+      "notes": "Heavy caseloads, retention challenges with out-of-service area students."
+    },
+    {
+      "division": "Workforce",
+      "role": "Career Coach",
+      "fte": 1.0,
+      "caseload_volume": 216,
+      "benchmark_ratio": 300,
+      "strain_category": "Flexible",
+      "strain_index": 0.72,
+      "automation_potential": "Low",
+      "reallocation_candidate": true,
+      "notes": "Capacity to expand 1:1 appointments and internship prep."
+    },
+    {
+      "division": "HR & Campus Engagement",
+      "role": "HR Administration (Cindy/Gwen)",
+      "fte": 2.0,
+      "caseload_volume": 0,
+      "benchmark_ratio": 0,
+      "strain_category": "Flexible",
+      "strain_index": 0.8,
+      "automation_potential": "Medium",
+      "reallocation_candidate": true,
+      "notes": "Manageable with predictable peak waves. Flexibility identified in administrative/transactional HR."
+    }
+  ]
+}
